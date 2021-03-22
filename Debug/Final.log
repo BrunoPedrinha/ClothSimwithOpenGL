@@ -1,0 +1,24 @@
+﻿Build started 21/08/2017 1:44:07 AM.
+     1>Project "F:\FOLDER TO SAVE\Bruno\School\Semester 3\Game 340\Final\Final\Final.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\FOLDER TO SAVE\Bruno\School\Semester 3\Game 340\Final\Debug\Final.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"F:\FOLDER TO SAVE\Bruno\School\Semester 3\Game 340\Final\Debug\Final.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\FOLDER TO SAVE\Bruno\School\Semester 3\Game 340\Final\Debug\Final.lib" /MACHINE:X86 Debug\Cloth.obj
+         Debug\MassPoint.obj
+         Debug\Springs.obj
+         Debug\Vector.obj
+         Debug\GeoObject.obj
+         Debug\Camera.obj
+         Debug\GameObject.obj
+         Debug\main.obj
+         Debug\Particles.obj
+         Debug\Ball.obj
+         Debug\VMath.obj
+         Debug\V_Randomizer.obj
+         Final.vcxproj -> F:\FOLDER TO SAVE\Bruno\School\Semester 3\Game 340\Final\Debug\Final.exe
+     1>Done Building Project "F:\FOLDER TO SAVE\Bruno\School\Semester 3\Game 340\Final\Final\Final.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.42
